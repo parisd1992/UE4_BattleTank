@@ -1,0 +1,33 @@
+Tank Battle 
+
+< Concept >
+
+Open world head-to-head tank combat game
+
+Terrain will be used for tactical advantage
+
+Focus will be on flow and feel
+
+< Rules >
+
+Can move anywhere in the terrain which is surrounded by mountains
+
+Both players start with finite health and ammo
+
+Each direct hit takes away health
+
+The last player standing wins
+
+< Requirements >
+
+SFX: gun firing, explosions, barrel moving, turret moving, engine sound
+
+Static Mesh: simple tanks comprising of track, turrets, body and barrel.
+
+Textures: for visual flare
+
+Music: background for tension
+
+< Iteration >
+
+World > Tank > Controls > Player 2 > UI > World
